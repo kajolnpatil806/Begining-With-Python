@@ -1,0 +1,5 @@
+print('Hello, World!')
+print(1+3)
+print(3*8)
+print(' ')
+print('The End.', 'Oh is it?', 'Keep Watching to learn Python.', 'Will be completed by:', 23 , 'of this month')
