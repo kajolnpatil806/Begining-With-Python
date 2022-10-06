@@ -32,7 +32,7 @@ print()
 
 print("Printing original List: {}".format(number))
 copyingNumber = number[:]
-print("Printing copied list: {}".format(copyingNumber))
+print("Printing copied list using Slice method: {}".format(copyingNumber))
 print()
 
 print("Printing original List: {}".format(number))
